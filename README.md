@@ -4,7 +4,7 @@ Node-Red Juniper Apstra Protobuf decoder
 <br>
 <img src=docs/img/node-red.png>
 
-As websocket client you can use ie. Chrome Extenstion:
+For quick test websocket client - you can use Chrome Extenstion:
 <a href=https://chromewebstore.google.com/detail/websocket-king-client/cbcbkhdmedgianpaifchdaddpnmgnknn>Websocket King Client</a>
 
 Example event websocket message:
